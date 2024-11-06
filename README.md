@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hey this's Hieu 👋
 
 ## 🚀 About Me
 I'm an aspiring Data Scientist currently studying at Virginia Tech (VT). I'm on a mission to turn my curiosity for data into a career that solves real-world problems. While I'm not a data scientist yet, I'm diligently learning and growing every day to become one.
