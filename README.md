@@ -5,7 +5,7 @@ I'm an aspiring Data Scientist currently studying at Virginia Tech (VT). I'm on 
 
 ## 🔧 Technologies & Tools
 - **Data Analysis**: Python (Pandas, NumPy), R
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Machine Learning**: Scikit-Learn
 - **Data Visualization**: Matplotlib, Power BI
 - **Databases**: SQL, PostgreSQL
 - **Version Control**: Git, GitHub
